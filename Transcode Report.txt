@@ -1,0 +1,48 @@
+
+
+   ---- Transcoding 'C:\Users\hojun\AppData\Local\Temp\water duck_importZIP\waterduck.stc' ----   Wed Jan 11 17:01:46 2017
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\hojun\AppData\Local\Temp\water duck_importZIP\waterduck.cmp' ----   Wed Jan 11 17:01:47 2017
+
+D10   --> D105
+D11   --> D106
+D12   --> D107
+D13   --> D108
+D14   --> D109
+D15   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\hojun\AppData\Local\Temp\water duck_importZIP\waterduck.dim' ----   Wed Jan 11 17:01:47 2017
+
+D10   --> D111
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\hojun\AppData\Local\Temp\water duck_importZIP\waterduck.sol' ----   Wed Jan 11 17:01:47 2017
+
+D10   --> D112
+D11   --> D113
+D12   --> D114
+D13   --> D115
+D14   --> D116
+D15   --> D117
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\hojun\AppData\Local\Temp\water duck_importZIP\waterduck.sts' ----   Wed Jan 11 17:01:47 2017
+
+D10   --> D118
+D11   --> D119
+D12   --> D120
+D13   --> D121
+D14   --> D122
+-----------------------------------------------------------------

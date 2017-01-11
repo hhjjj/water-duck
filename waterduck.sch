@@ -214,18 +214,18 @@ DIN A4, landscape with extra doc field</description>
 <library name="waterduck">
 <packages>
 <package name="FEATHER">
-<wire x1="2.54" y1="0" x2="48.26" y2="0" width="0" layer="20"/>
-<wire x1="48.26" y1="0" x2="50.8" y2="2.54" width="0" layer="20" curve="90"/>
-<wire x1="50.8" y1="2.54" x2="50.8" y2="20.32" width="0" layer="20"/>
-<wire x1="50.8" y1="20.32" x2="48.26" y2="22.86" width="0" layer="20" curve="90"/>
-<wire x1="48.26" y1="22.86" x2="2.54" y2="22.86" width="0" layer="20"/>
-<wire x1="2.54" y1="22.86" x2="0" y2="20.32" width="0" layer="20" curve="90"/>
-<wire x1="0" y1="20.32" x2="0" y2="13.97" width="0" layer="20"/>
-<wire x1="0" y1="13.97" x2="0.508" y2="13.462" width="0" layer="20"/>
-<wire x1="0.508" y1="13.462" x2="0.508" y2="9.398" width="0" layer="20"/>
-<wire x1="0.508" y1="9.398" x2="0" y2="8.89" width="0" layer="20"/>
-<wire x1="0" y1="8.89" x2="0" y2="2.54" width="0" layer="20"/>
-<wire x1="0" y1="2.54" x2="2.54" y2="0" width="0" layer="20" curve="90"/>
+<wire x1="2.54" y1="0" x2="48.26" y2="0" width="0" layer="21"/>
+<wire x1="48.26" y1="0" x2="50.8" y2="2.54" width="0" layer="21" curve="90"/>
+<wire x1="50.8" y1="2.54" x2="50.8" y2="20.32" width="0" layer="21"/>
+<wire x1="50.8" y1="20.32" x2="48.26" y2="22.86" width="0" layer="21" curve="90"/>
+<wire x1="48.26" y1="22.86" x2="2.54" y2="22.86" width="0" layer="21"/>
+<wire x1="2.54" y1="22.86" x2="0" y2="20.32" width="0" layer="21" curve="90"/>
+<wire x1="0" y1="20.32" x2="0" y2="13.97" width="0" layer="21"/>
+<wire x1="0" y1="13.97" x2="0.508" y2="13.462" width="0" layer="21"/>
+<wire x1="0.508" y1="13.462" x2="0.508" y2="9.398" width="0" layer="21"/>
+<wire x1="0.508" y1="9.398" x2="0" y2="8.89" width="0" layer="21"/>
+<wire x1="0" y1="8.89" x2="0" y2="2.54" width="0" layer="21"/>
+<wire x1="0" y1="2.54" x2="2.54" y2="0" width="0" layer="21" curve="90"/>
 <rectangle x1="41.656" y1="1.016" x2="42.164" y2="1.524" layer="51"/>
 <rectangle x1="39.116" y1="1.016" x2="39.624" y2="1.524" layer="51"/>
 <rectangle x1="36.576" y1="1.016" x2="37.084" y2="1.524" layer="51"/>
